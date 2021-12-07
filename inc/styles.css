@@ -7,7 +7,7 @@ body {
 }
 
 #container {
-  height: 80vh;
+  height: 60vh;
 }
 
 textarea {
@@ -17,6 +17,11 @@ textarea {
   min-height: 5em;
   min-width: 400px;
   max-width: 80vw;
+}
+
+button {
+  padding: 4px;
+  font-weight: bold;
 }
 
 svg {
